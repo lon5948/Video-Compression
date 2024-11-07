@@ -16,11 +16,6 @@ typing
 tabulate
 ```
 
-You can install the required packages using pip:
-```
-pip install numpy opencv-python matplotlib tqdm
-```
-
 ### Usage
 1. Place your input frames in the `inputs/` directory
 
